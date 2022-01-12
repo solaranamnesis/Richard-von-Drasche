@@ -30,9 +30,17 @@ Der Punkt, wo dieser zweite Meteorit gefunden wurde, liegt 12 Kilometer südwest
 
 Im Jahre 1874 wurden neuerdings in derselben Gegend vier kleinere Meteoriten entdeckt, welche auch demselben Falle zuzuschreiben sind.
 
-Die Gewichte dieser 6 Meteoriten in Kilogrammen ausgedrückt verhalten sich folgendermassen: 47 der Meteorit von Lancé, 0°25 der von Authon und 3°00, 0°620, 0°600, 0.300 die vier zuletzt gefundenen.
+Die Gewichte dieser 6 Meteoriten in Kilogrammen ausgedrückt verhalten sich folgendermassen: 47 der Meteorit von Lancé, 0.25 der von Authon und 3.00, 0.620, 0.600, 0.300 die vier zuletzt gefundenen.
 
 Der Meteorit von Lancé ist, wie schon früher erwähnt wurde, beim Auffallen in drei Theile zersprungen, welche sich jedoch ganz genau wieder zusammenfügen lassen.
 
 Die Form des Meteoriten ist die einer abgestumpften, vierseitigen Pyramide ähnlich. Berücksichtigt man die Zeichnungen auf der Oberfläche des Meteoriten, so muss man die Abstumpfungsfläche als Brustseite, die Basis der Pyramide als Rückseite betrachten. Die Brustseite ist beiläufig ein Trapez, dessen zwei längere Kanten 23 und 26 Cm. messen, die zwei kürzeren 18 und 12 Cm. Die Kanten der Pyramide sind alle sehr stark abgerundet.
+
+Tafel 1 ist eine Ansicht des Meteoriten, der dem Beschauer die Brustseite zuwendet. Die in dieser Figur auf der unteren Hälfte liegenden Kanten sind am meisten abgerundet. Die Länge dieser vier Kanten beträgt: 16, 17, 18, 20 Cm.
+
+Die Kanten der Pyramidenseiten mit der Basis sind scharf; die Basis selbst besteht aus zwei, unter einem Winkel von beiläufig 140° geneigten Flächen. Die Seiten der Pyramide machen mit der Brustfläche Winkel von 120-130°. Die Brustseite sowie die Seiten der Pyramide sind mit einer schwachen, schwarzen Schmelzrinde bedeckt, welche an vielen Stellen die graue Farbe des Meteoriten durchscheinen lässt. 
+
+Von der Mitte der Brustseite aus laufen sehr feine Linien, durch Anhäufung von Schmelzrinde erzeugt, strahlenförmig aus und convergiren so in einem Punkte, von dem aus die flüssige Gesteinsoberfläche durch den Luftwiderstand nach den Seiten geblasen wurde. Die feinen Linien sind ebenfalls auf den Pyramidenseiten zu verfolgen. Hier werden sie oft senkrecht durch deutliche, sehr scharfe Linien abgeschnitten, längs welchen eine bedeutende Anhäufung von Schmelzsubstanz stattfindet. Solche Linien sind oft 2-3 hintereinander. Auf Tafel 3, Fig. 1 ist ein Theil einer Pyramidenseite dargestellt, um diese auffallenden Linien zu zeigen. Die Linien mögen durch eine schwingende Bewegung des Meteoriten um seinen Schwerpunkt während des Fluges entstanden sein.
+
+Brust- und Seitenflächen zeigen keinerlei Vertiefungen, nur bei _b)_ Tafel 1 gewahrt man drei tiefe rundliche Eindrücke, welche von einer starken Schmelzrinde umwallt sind. An derselben Fläche finden sich auch bei _a)_ Tafel 1 mehrere längliche, ziemlich tiefe Eindrücke, durch welche ein Sprung geht. Gegen den Rand der Rückseite zu ist diese Fläche mit breiten, sehr schwachen Vertiefungen versehen, deren Richtung ziemlich parallel der Pyramidenkante verläuft und welche mit jenen Eindrücken zu vergleichen sind, welche entstehen, wenn man mit den Fingern über plastischen Thon fährt.
 
