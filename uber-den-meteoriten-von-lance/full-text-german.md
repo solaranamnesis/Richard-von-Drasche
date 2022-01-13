@@ -44,3 +44,14 @@ Von der Mitte der Brustseite aus laufen sehr feine Linien, durch Anhäufung von 
 
 Brust- und Seitenflächen zeigen keinerlei Vertiefungen, nur bei _b)_ Tafel 1 gewahrt man drei tiefe rundliche Eindrücke, welche von einer starken Schmelzrinde umwallt sind. An derselben Fläche finden sich auch bei _a)_ Tafel 1 mehrere längliche, ziemlich tiefe Eindrücke, durch welche ein Sprung geht. Gegen den Rand der Rückseite zu ist diese Fläche mit breiten, sehr schwachen Vertiefungen versehen, deren Richtung ziemlich parallel der Pyramidenkante verläuft und welche mit jenen Eindrücken zu vergleichen sind, welche entstehen, wenn man mit den Fingern über plastischen Thon fährt.
 
+Tafel 2 stellt den Meteoriten von der Rückseite dar. Dieselbe ist von einer 0.5 Mm. dicken, schwarzen, leider etwas beschädigten Rinde bedeckt.
+
+Die zwei Flächen, aus denen die Rückseite besteht, sind mit Ausnahme einer Stelle bei _a)_ Fig. 2 vollkommen eben. Eine radiale Anordnung von Schmelzlinien vom Mittelpunkt der Basis aus nach den Seiten ist an manchen Stellen bemerkbar. Eine Erscheinung, welche noch die Rinde der Rückseite bietet, ist die, dass dieselbe wie von feinen Nadelstichen durchlöchert erscheint.
+
+Diess dürfte von einem Entweichen von Gasen durch die noch weiche Schmelzrinde herrühren.
+
+Der Bruch des Meteoriten ist feinkörnig und uneben, die Farbe frischer Bruchflächen ist grau. Schon mit freiem Auge erkennt man an ihnen die globuläre Structur des Meteoriten, der zu Rose’s Classe der Chondrite zu stellen ist. Die Kügelchen erreichen selten einen Millimeter im Durchmesser, sie sind entweder weiss oder dunkelgrau bis schwarz und reichlich. Ausserdem beobachtet man noch eine grosse Anzahl von weissen, oft durchscheinenden Körnern mit deutlicher Spaltbarkeit, welche, wie es später die mikroskopischen Untersuchungen lehren werden, Olivin sind. Ausser diesen zweierlei Kügelchen sind in der tufartigen Grundmasse noch häufig Partikelchen mit metallischem Glanze zu beobachten.
+
+Das specifische Gewicht des Steines ist nach Daubrée 3.80.
+
+Nach den Erörterungen über die äussere Form und Beschaffenheit unseres Chondriten schreiten wir nun zu den Ergebnissen der mikroskopischen Untersuchungen, zu welchem Behufe Dünnschliffe angefertigt wurden.
