@@ -80,7 +80,7 @@ In diese Masse sind viele kleine, stark polarisirende, farblose Körperchen eing
 
 Von den Ecken an der Oberfläche dieses inneren Theiles gehen starke, gekrümmte Adern nach dem Rande des äussern Theiles und theilen so den Ring in eine Anzahl Sectoren. Der äussere Ring selbst besteht wieder aus einem Aggregat der kleinen farblosen Krystallichen, welches von einem dichten Netzwerk eines braunen, faserigen Minerals durchzogen ist. Ich vermuthe, dass dasselbe aus derselben Substanz bestehe, wie der innere Theil der Kugel.
 
-_b)_ Während die sub _a)_ aufgezählten Kügelchen grösstentheils aus Olivin bestanden, kommen wir jetzt zu der Beschreibung von Kugeln, welche aus einem feinfaserig, excentrisch angeordneten Minerale bestehen, welches wohl in den meisten Fällen Broncit sein dürfte. Schon G. Rose (Beschreibung und Eintheilung der Meteoriten) hat, mit damals noch unzureichenden mikroskopischen Hilfsmitteln diese Art von Kügelchen beschrieben und abgebildet und hauptsächlich im Gegensatze zu terrestrischen ähnlichen Gebilden die stets excentrische Structur derselben hervorgehoben. Von G. Tschermak besitzen wir genaue und ausführliche Beschreibungen dieser Körper in dem Meteorit von Gopalpur. (Die Meteoriten von Shergotty und Gopalpur. 65. Bd. der Sitzb. der 5 Akademie der Wissensch., 1. Abth., Februar-Heft, Jahrgang 1872.)
+_b)_ Während die sub _a)_ aufgezählten Kügelchen grösstentheils aus Olivin bestanden, kommen wir jetzt zu der Beschreibung von Kugeln, welche aus einem feinfaserig, excentrisch angeordneten Minerale bestehen, welches wohl in den meisten Fällen Bronzit sein dürfte. Schon G. Rose (Beschreibung und Eintheilung der Meteoriten) hat, mit damals noch unzureichenden mikroskopischen Hilfsmitteln diese Art von Kügelchen beschrieben und abgebildet und hauptsächlich im Gegensatze zu terrestrischen ähnlichen Gebilden die stets excentrische Structur derselben hervorgehoben. Von G. Tschermak besitzen wir genaue und ausführliche Beschreibungen dieser Körper in dem Meteorit von Gopalpur. (Die Meteoriten von Shergotty und Gopalpur. 65. Bd. der Sitzb. der 5 Akademie der Wissensch., 1. Abth., Februar-Heft, Jahrgang 1872.)
 
 Fig. 7, Tafel 4 ist die Abbildung eines excentrischen Kügelchens aus unserem Meteoriten. Dasselbe ist ungemein dickfaserig, so dass es selbst im Dünnschliffe nur schwach Licht durchlassend ist.
 
@@ -88,4 +88,20 @@ In Fig. 6 ist ein anderes Kügelchen abgebildet, ebenfalls mit excentrischer Ano
 
 Fig. 8 zeigt uns den Durchschnitt eines faserigen Kügelchens, welcher wohl senkrecht zur Längsausdehnung der Fasern geschliffen ist.
 
-Ausser diesen faserigen Kügelchen, welche in grosser Menge in unserem Meteoriten vorkommen, beobachtete ich ein Kügelchen, welches 
+Ausser diesen faserigen Kügelchen, welche in grosser Menge in unserem Meteoriten vorkommen, beobachtete ich ein Kügelchen, welches nur aus einem Gewirre von Bronzit-Krystallen besteht. (Siehe Fig. 9, Tafel 4 in 240facher Vergrösserung.) Die einzelnen Krystalle sind zwar so unendlich klein, dass eine Bestimmung ihrer optischen Hauptschnitte unmöglich ist, jedoch die lange nadelförmige Gestalt, die Zertheilung der einzelnen Krystalle durch Quersprünge deuten unbedingt auf ein Mineral der Bronzitgruppe hin. Manche Nadeln sind von ungeheurer Dünne, andere erreichen wieder verhältnissmässig ansehnliche Breite, stets sind sie aber ohne jedes Gesetz zu einander gruppirt.
+
+Meines Wissens wurde eine ähnliche Kugel noch nie in Meteoriten beobachtet.
+
+Wir haben nun noch schliesslich die im Chondriten von Lancé einzeln vorkommenden Mineralien zu besprechen. Es sind dies Eisen, Magnetkies, Bronzit, Olivin.
+
+Eisenkies und Magnetkies lassen sich bei auffallendem Lichte leicht durch ihre verschiedenen Farben erkennen. Beide sind in grosser Menge in unserem Meteoriten zerstreut. Ueberall, sowohl in der tufähnlichen Grundmasse, als in den Kügelchen und einzelnen Krystallen trifft man diese Mineralien in grosser Häufigkeit an. Theils kommen beide isolirt vor, theils beobachtet man grössere unförmlich kugelige Massen, die einen Kern von Magnetkies und eine Hülle von Eisen oder umgekehrt zeigen.
+
+Ob Chromeisen auch vorhanden ist, konnte ich nicht beobachten, die Analyse von Daubrée macht diess jedoch sehr wahrscheinlich.
+
+Einzelne Olivin-Krystalle von ansehnlicher Grösse bis 1 Mm. kommen sehr häufig vor. Sie zeigen oft ziemlich regelmässige, geradlinige Begrenzung, sind farblos-durchsichtig im Schliffe und von den dem Olivin eigenthümlichen Sprüngen zahlreich durchsetzt. (Siehe Fig. 10, Tafel 4.)
+
+In allen unseren Dünnschliffen konnten wir nur einen einzigen isolirten grösseren Bronzit-Krystall beobachten. (Siehe Fig. 11, Tafel IV.) Derselbe ist in der dichten Grundmasse eingebettet und zeigt sehr deutliche Spaltbarkeit. Die Spaltungsdurchgänge sind mit einer undurchsichtigen Substanz erfüllt. Die optischen Hauptschnitte stehen senkrecht zu der Spaltungs- und Längsrichtuug des Krystalles; es kann mithin kein Zweifel an der rhombischen Natur dieses Krystalles sein. Der Krystall selbst ist durch mechanische Gewalt, wie es scheint, bedeutend zerstiickt und zerquetscht.
+
+Unsere mikroskopischen Beobachtungen können wir nunmehr mit folgenden Worten kurz zusammenfassen: In einem tufartigen Zerreibselliegen viele isolirte Krystalle von Olivin und hie und da Bronzit, nebst einer grossen Menge von Kügelchen von zweierlei Beschaffenheit. Dieselben sind entweder regelmässige oder unregelmässig angeordnete Aggregate von Olivin, oder bestehen aus excentrisch-strahlig angeordneten Bronzit-Nadeln.
+
+In einem speciellen Falle bestand eine Kugel aus einem wirren Haufwerk von Bronzit-Krystallen. Magnetkies und Eisen sind reichlich in allen Theilen des Chondriten vorhanden.
