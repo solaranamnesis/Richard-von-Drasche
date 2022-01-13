@@ -100,8 +100,53 @@ Ob Chromeisen auch vorhanden ist, konnte ich nicht beobachten, die Analyse von D
 
 Einzelne Olivin-Krystalle von ansehnlicher Grösse bis 1 Mm. kommen sehr häufig vor. Sie zeigen oft ziemlich regelmässige, geradlinige Begrenzung, sind farblos-durchsichtig im Schliffe und von den dem Olivin eigenthümlichen Sprüngen zahlreich durchsetzt. (Siehe Fig. 10, Tafel 4.)
 
-In allen unseren Dünnschliffen konnten wir nur einen einzigen isolirten grösseren Bronzit-Krystall beobachten. (Siehe Fig. 11, Tafel IV.) Derselbe ist in der dichten Grundmasse eingebettet und zeigt sehr deutliche Spaltbarkeit. Die Spaltungsdurchgänge sind mit einer undurchsichtigen Substanz erfüllt. Die optischen Hauptschnitte stehen senkrecht zu der Spaltungs- und Längsrichtuug des Krystalles; es kann mithin kein Zweifel an der rhombischen Natur dieses Krystalles sein. Der Krystall selbst ist durch mechanische Gewalt, wie es scheint, bedeutend zerstiickt und zerquetscht.
+In allen unseren Dünnschliffen konnten wir nur einen einzigen isolirten grösseren Bronzit-Krystall beobachten. (Siehe Fig. 11, Tafel 4.) Derselbe ist in der dichten Grundmasse eingebettet und zeigt sehr deutliche Spaltbarkeit. Die Spaltungsdurchgänge sind mit einer undurchsichtigen Substanz erfüllt. Die optischen Hauptschnitte stehen senkrecht zu der Spaltungs- und Längsrichtuug des Krystalles; es kann mithin kein Zweifel an der rhombischen Natur dieses Krystalles sein. Der Krystall selbst ist durch mechanische Gewalt, wie es scheint, bedeutend zerstiickt und zerquetscht.
 
 Unsere mikroskopischen Beobachtungen können wir nunmehr mit folgenden Worten kurz zusammenfassen: In einem tufartigen Zerreibselliegen viele isolirte Krystalle von Olivin und hie und da Bronzit, nebst einer grossen Menge von Kügelchen von zweierlei Beschaffenheit. Dieselben sind entweder regelmässige oder unregelmässig angeordnete Aggregate von Olivin, oder bestehen aus excentrisch-strahlig angeordneten Bronzit-Nadeln.
 
 In einem speciellen Falle bestand eine Kugel aus einem wirren Haufwerk von Bronzit-Krystallen. Magnetkies und Eisen sind reichlich in allen Theilen des Chondriten vorhanden.
+
+Was schliesslich die chemische Zusammensetzung des Chondriten von Lancé betrifft, so besitzen wir eine Analyse desselben von Daubrée und ich erlaube mir die darauf bezüglichen Stellen folgend in Uebersetzung wiederzugeben: (Siehe Examen des météorites tombées le 23. Juillet 1872, par M. Daubrée Compt. rend. Aout 1872. pag. 467)
+
+„Mit Wasser behandelt verliert die Substanz 0.12%, Chlornatrium....
+
+Wenn man die Substanz der Rotbglühhitze in einem Strome von Wasserstoff aussetzt und das erzeugte Sublimat auffängt, so kann man von Neuem die Gegenwart des Chlornatriums in demselben Verhältnisse constatiren, als es in der wässerigen Lösung gefunden wurde. Kalisalze, Sulfate und Hypersulfate sind nicht vorhanden. Salzsäure und Schwefelsäure bewirken eine Entwicklung von Schwefelwasserstoffgas in grosser Menge, aber ohne einen Absatz von Schwefel, welches anzeigt, dass sich der Schwefel nur als Protosulfür vorfinde. Man hat sowohl die Menge des Schwefels des entwichenen Schwefelwasserstoffgases mit salpetersauren Silberoxid bestimmt, als auch die Menge des entwichenen Wasserstoffes von der Behandlung mit Schwefelsäure herrührend, und es ist durch letztere Methode gelungen, den approximativen Gehalt an freien Metallen zu bestimmen. Durch Behandlung mit Salpetersäure und indem man nach der Methode von H. Sainte-Claire Deville vorging, hat man die Gegenwart eines angreifbaren Silikates constatirt, welches Magnesia und Eisenoxidul enthält.
+
+Der unangreifbare Theil besteht aus wenigstens zwei Substanzen, einem farblosen und einem tiefschwarzen.
+
+Das olivinähnliche Silikat beträgt 42.36%, des Totalgewichtes, der unzersetzte Theil 33.44%.
+
+Das Eisen aus dem in Salzsäure löslichen Theil wurde nach der Margueritte'schen, durch Boussingault verbesserten Methode bestimmt; es beträgt 24.48%.
+
+Die Gegenwart des Kupfers wurde durch die Spectral-Analyse erkannt, ebenso die Abwesenheit von Kalk, Baryum und Strontium. Kohle konnte nicht nachgewiesen werden. Wie gewöhnlich begleiten Kobalt und Nickel das Eisen in diesem Meteoriten.
+
+Folgendes ist das Resultat der Analyse:
+
+Freies, mit Nickel und Kobalt legirtes Eisen ... 7.81  
+Eisen u. andere Metalle an Schwefel gebunden ... 9.09  
+Gebundener Schwefel ... 5.19  
+
+Protosulfür ... 14.28  
+
+Durch Säuren zersetzbares Silikat oder Olivin ... Kieselsäure ... 17.20  
+Durch Säuren zersetzbares Silikat oder Olivin ... Magnesia ... 13.86  
+Durch Säuren zersetzbares Silikat oder Olivin ... Eisenoxidul ... 11.33  
+Durch Säuren zersetzbares Silikat oder Olivin ... Manganoxidul ... 0.05  
+
+42.41 
+
+Durch Säuren unzersetzbarer Theil ... 33.44  
+Chlornatrium ... 0.12  
+Hygroskopisches Wasser ... 1.24  
+
+99.31  
+
+Als Bestätigung füge ich hinzu, dass successive Ströme von Wasserstoff und Chlor eine Gewichtsabnahme von 34.98% bewirkten. Vergleicht man diese Ziffer mit denen der Analyse, so kommt man zur Ueberzeugung, dass nach dieser Operation nur mehr das unzersetzbare Silikat und die Kieselsäure und Magnesia des zersetzbaren Theiles zurückbleiben.
+
+Abgesehen von den gewöhnlichen Bestandtheilen eines Meteoriten wie Nickeleisen, Troilit, Olivin und unzersetzbares Silikat, enthält der Meteorit von Lancé Chlornatrium in kleiner Menge.“
+
+Wir erkennen somit auch in der chemischen Analyse die Mineralien wieder, welche wir im Mikroskope beobachten konnten. Der unzersetzbare, nicht weiter analisirte Theil besteht nach Daubrée aus einem farblosen und schwarzen Mineral. Ersteres ist wohl Bronzit, letzteres dürfte Chromit sein.
+
+Die 14.28%, Protosulfür werden wohl dem Magnetkies angehörig sein, da kein Troilit von uns beobachtet wurde. Zählen wir nunmehr die beobachteten Mineralien auf, so enthält der Chondrit von Lancé Nickeleisen, Magnetkies, Chromit, Olivin und Bronzit. Troilit wurde nicht beobachtet. Eine genaue Analyse des unlöslichen Theiles müsste zeigen, ob in demselben nicht vielleicht auch wie im Meteoriten von Gopalpur ein feldspathähnlicher Bestandtheil vorhanden ist.
+
+Zum Schlusse entledige ich mich einer angenehmen Pflicht, wenn ich Herrn Director Dr. G. Tschermak meinen verbindlichsten Dank ausdrücke für die Liberalität, mit welcher er mir die hiesige Meteoritensammlung zu meinen Studien zur Verfügung stellte.
