@@ -55,3 +55,21 @@ Der Bruch des Meteoriten ist feinkörnig und uneben, die Farbe frischer Bruchfl�
 Das specifische Gewicht des Steines ist nach Daubrée 3.80.
 
 Nach den Erörterungen über die äussere Form und Beschaffenheit unseres Chondriten schreiten wir nun zu den Ergebnissen der mikroskopischen Untersuchungen, zu welchem Behufe Dünnschliffe angefertigt wurden.
+
+In einer dunklen unentwirrbaren Grundmasse liegt eine ausserordentliche Anzahl von kreisförmigen Durchschnitten von verschiedener Structur, nebst einzeln zerstreuten Krystallfragmenten.
+
+Auch dieser Chondrit entspricht mithin der Definition, welche G. Tschermak von denselben aufstellt: (Sitzungsberichte der Wiener Akademie, 1874, November. Ueber die Trümmerstructur der Meteoriten von Orvinio und Chantonay). „Chondrite sind mehr oder weniger tuffähnliche Massen, bestehend aus Gesteinskügelchen und einer pulverigen und dichten, gleich zusammengesetzten Grundmasse.“
+
+Die einzelnen Kügelchen in unserm Chondriten sind von grosser Verschiedenheit und oft von so eigenthümlicher Structur, dass sie einer genaueren Beschreibung werth erscheinen.
+
+_a)_ Kügelchen, meistens mit schön kreisförmigen Durchschnitten, weiss, durchscheinend, sie bestehen meist aus einer grossen Anzahl scheinbar unregelmässig angeordneter Kryställchen, oft jedoch auch aus wenigen simmetrisch um einen Punkt gestellten Krystallen von weisser Farbe, durchsichtig und mit deutlicher Spaltbarkeit. Ich zweifle nicht daran, dass diese Krystalle Olivin sind, und die Olivin-Kügelchen den schon mit freiem Auge am Meteoriten beobachteten weissen Körnchen entsprechen. Fig. 1 auf Tafel 4 zeigt ein solches Olivin-Kügelchen in der dunklen Grundmasse eingebettet. Mit Anwendung von Polarisation beobachtet man, dass die drei Theile im Durchschnitte auch verschiedenen Individuen angehören.
+
+Fig. 2, Tafel 4 zeigt ein aus vier grösseren Individuen nebst einigen kleinen zusammengesetztes Kügelchen. Die einzelnen Individuen bilden auch hier im Durchschnitte Kreissegmente.
+
+Eine Anzahl von undurchsichtigen, kugelförmigen Körperchen sind sowohl am Rande als in der Mitte des Durchschnittes zu beobachten.
+
+Fig. 3, Tafel 4 zeigt den Durchschnitt eines etwas unregelmässig begrenzten Kügelchens, welches aus dicht aneinander gestellten Polygonen besteht und im Mikroskope unwillkürlich an ein facettirtes Fliegenauge erinnert. Die einzelnen Krystalle, welche ganz unregelmässige optische Orientirung zeigen, sind ebenfalls dem Olivin angehörig.
+
+In Fig. 4, Tafel 4 ist der Durchschnitt eines ganz merkwürdigen Kügelchens abgebildet, von welcher Gattung ich nur ein einziges Exemplar beobachten konnte. Der Durchschnitt ist vollkommen kreisförmig, die Substanz, aus der das Kügelchen zum grössten Theile besteht, ist farblos, sie zeigt jedoch bei gekreuzten Nicols keine weiteren Erscheinungen. Von einem excentrisch liegenden Punkte strahlen sechs lanzettförmige Leistchen unter Winkeln von 45° nach den Rändern aus; an dieselben heften sich wieder andere kürzere Stäbchen, ebenfalls unter 45°, in grosser Menge. Bei sehr starker, 240facher Vergrösserung, erscheinen dieselben hohl und theilweise mit einer dunkelgrünen, flockigen Substanz erfüllt.
+
+Die gleichförmige Grundmasse des Kügelchens ist von vielen Sprüngen durchsetzt, welche ungehindert durch die Leistchen fortsetzen.
