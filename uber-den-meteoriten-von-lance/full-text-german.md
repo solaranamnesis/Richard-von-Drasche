@@ -46,7 +46,7 @@ Brust- und Seitenflächen zeigen keinerlei Vertiefungen, nur bei _b)_ [Tafel 1](
 
 [Tafel 2](https://cdn.solaranamnesis.com/Drasche/table2.png) stellt den Meteoriten von der Rückseite dar. Dieselbe ist von einer 0.5 Mm. dicken, schwarzen, leider etwas beschädigten Rinde bedeckt.
 
-Die zwei Flächen, aus denen die Rückseite besteht, sind mit Ausnahme einer Stelle bei _a)_ Fig. 2 vollkommen eben. Eine radiale Anordnung von Schmelzlinien vom Mittelpunkt der Basis aus nach den Seiten ist an manchen Stellen bemerkbar. Eine Erscheinung, welche noch die Rinde der Rückseite bietet, ist die, dass dieselbe wie von feinen Nadelstichen durchlöchert erscheint.
+Die zwei Flächen, aus denen die Rückseite besteht, sind mit Ausnahme einer Stelle bei _a)_ [Fig. 2](https://cdn.solaranamnesis.com/Drasche/table3-figure2.png) vollkommen eben. Eine radiale Anordnung von Schmelzlinien vom Mittelpunkt der Basis aus nach den Seiten ist an manchen Stellen bemerkbar. Eine Erscheinung, welche noch die Rinde der Rückseite bietet, ist die, dass dieselbe wie von feinen Nadelstichen durchlöchert erscheint.
 
 Diess dürfte von einem Entweichen von Gasen durch die noch weiche Schmelzrinde herrühren.
 
