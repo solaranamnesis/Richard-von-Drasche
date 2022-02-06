@@ -122,7 +122,7 @@ Die Gegenwart des Kupfers wurde durch die Spektral-Analyse erkannt, ebenso die A
 
 Folgendes ist das Resultat der Analyse:
 
-Freies, mit Nickel und Kobalt legirtes Eisen ... 7.81  
+Freies, mit Nickel und Kobalt legiertes Eisen ... 7.81  
 Eisen u. andere Metalle an Schwefel gebunden ... 9.09  
 Gebundener Schwefel ... 5.19  
 
@@ -135,18 +135,18 @@ Durch Säuren zersetzbares Silikat oder Olivin ... Manganoxidul ... 0.05
 
 42.41 
 
-Durch Säuren unzersetzbarer Theil ... 33.44  
+Durch Säuren unzersetzbarer Teil ... 33.44  
 Chlornatrium ... 0.12  
 Hygroskopisches Wasser ... 1.24  
 
 99.31  
 
-Als Bestätigung füge ich hinzu, dass successive Ströme von Wasserstoff und Chlor eine Gewichtsabnahme von 34.98% bewirkten. Vergleicht man diese Ziffer mit denen der Analyse, so kommt man zur Ueberzeugung, dass nach dieser Operation nur mehr das unzersetzbare Silikat und die Kieselsäure und Magnesia des zersetzbaren Theiles zurückbleiben.
+Als Bestätigung füge ich hinzu, dass sukzessive Ströme von Wasserstoff und Chlor eine Gewichtsabnahme von 34.98% bewirkten. Vergleicht man diese Ziffer mit denen der Analyse, so kommt man zur Überzeugung, dass nach dieser Operation nur mehr das unzersetzbare Silikat und die Kieselsäure und Magnesia des zersetzbaren Teiles zurückbleiben.
 
-Abgesehen von den gewöhnlichen Bestandtheilen eines Meteoriten wie Nickeleisen, Troilit, Olivin und unzersetzbares Silikat, enthält der Meteorit von Lancé Chlornatrium in kleiner Menge.“
+Abgesehen von den gewöhnlichen Bestandteilen eines Meteoriten wie Nickeleisen, Troilit, Olivin und unzersetzbares Silikat, enthält der Meteorit von Lancé Chlornatrium in kleiner Menge.“
 
-Wir erkennen somit auch in der chemischen Analyse die Mineralien wieder, welche wir im Mikroskope beobachten konnten. Der unzersetzbare, nicht weiter analisirte Theil besteht nach Daubrée aus einem farblosen und schwarzen Mineral. Ersteres ist wohl Bronzit, letzteres dürfte Chromit sein.
+Wir erkennen somit auch in der chemischen Analyse die Mineralien wieder, welche wir im Mikroskope beobachten konnten. Der unzersetzbare, nicht weiter analysierte Teil besteht nach Daubrée aus einem farblosen und schwarzen Mineral. Ersteres ist wohl Bronzit, letzteres dürfte Chromit sein.
 
-Die 14.28%, Protosulfür werden wohl dem Magnetkies angehörig sein, da kein Troilit von uns beobachtet wurde. Zählen wir nunmehr die beobachteten Mineralien auf, so enthält der Chondrit von Lancé Nickeleisen, Magnetkies, Chromit, Olivin und Bronzit. Troilit wurde nicht beobachtet. Eine genaue Analyse des unlöslichen Theiles müsste zeigen, ob in demselben nicht vielleicht auch wie im Meteoriten von Gopalpur ein feldspathähnlicher Bestandtheil vorhanden ist.
+Die 14.28%, Protosulfür werden wohl dem Magnetkies angehörig sein, da kein Troilit von uns beobachtet wurde. Zählen wir nunmehr die beobachteten Mineralien auf, so enthält der Chondrit von Lancé Nickeleisen, Magnetkies, Chromit, Olivin und Bronzit. Troilit wurde nicht beobachtet. Eine genaue Analyse des unlöslichen Teiles müsste zeigen, ob in demselben nicht vielleicht auch wie im Meteoriten von Gopalpur ein feldspathähnlicher Bestandteil vorhanden ist.
 
-Zum Schlusse entledige ich mich einer angenehmen Pflicht, wenn ich Herrn Director Dr. G. Tschermak meinen verbindlichsten Dank ausdrücke für die Liberalität, mit welcher er mir die hiesige Meteoritensammlung zu meinen Studien zur Verfügung stellte.
+Zum Schlusse entledige ich mich einer angenehmen Pflicht, wenn ich Herrn Direktor Dr. G. Tschermak meinen verbindlichsten Dank ausdrücke für die Liberalität, mit welcher er mir die hiesige Meteoritensammlung zu meinen Studien zur Verfügung stellte.
