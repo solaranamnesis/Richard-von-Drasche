@@ -50,7 +50,7 @@ Die zwei Flächen, aus denen die Rückseite besteht, sind mit Ausnahme einer Ste
 
 Diess dürfte von einem Entweichen von Gasen durch die noch weiche Schmelzrinde herrühren.
 
-Der Bruch des Meteoriten ist feinkörnig und uneben, die Farbe frischer Bruchflächen ist grau. Schon mit freiem Auge erkennt man an ihnen die globuläre Struktur des Meteoriten, der zu Rose’s Klasse der Chondrite zu stellen ist. Die Kügelchen erreichen selten einen Millimeter im Durchmesser, sie sind entweder weiß oder dunkelgrau bis schwarz und reichlich. Außerdem beobachtet man noch eine große Anzahl von weißen, oft durchscheinenden Körnern mit deutlicher Spaltbarkeit, welche, wie es später die mikroskopischen Untersuchungen lehren werden, Olivin sind. Außer diesen zweierlei Kügelchen sind in der tufartigen Grundmasse noch häufig Partikelchen mit metallischem Glanze zu beobachten.
+Der Bruch des Meteoriten ist feinkörnig und uneben, die Farbe frischer Bruchflächen ist grau. Schon mit freiem Auge erkennt man an ihnen die globuläre Struktur des Meteoriten, der zu Rose’s Klasse der Chondrit zu stellen ist. Die Kügelchen erreichen selten einen Millimeter im Durchmesser, sie sind entweder weiß oder dunkelgrau bis schwarz und reichlich. Außerdem beobachtet man noch eine große Anzahl von weißen, oft durchscheinenden Körnern mit deutlicher Spaltbarkeit, welche, wie es später die mikroskopischen Untersuchungen lehren werden, Olivin sind. Außer diesen zweierlei Kügelchen sind in der tufartigen Grundmasse noch häufig Partikelchen mit metallischem Glanze zu beobachten.
 
 Das spezifische Gewicht des Steines ist nach Daubrée 3.80.
 
@@ -58,7 +58,7 @@ Nach den Erörterungen über die äußere Form und Beschaffenheit unseres Chondr
 
 In einer dunklen unentwirrbaren Grundmasse liegt eine außerordentliche Anzahl von kreisförmigen Durchschnitten von verschiedener Struktur, nebst einzeln zerstreuten Kristallfragmenten.
 
-Auch dieser Chondrit entspricht mithin der Definition, welche G. Tschermak von denselben aufstellt: (Sitzungsberichte der Wiener Akademie, 1874, November. Über die Trümmerstruktur der Meteoriten von Orvinio und Chantonnay). „Chondrite sind mehr oder weniger tuffähnliche Massen, bestehend aus Gesteinskügelchen und einer pulvrigen und dichten, gleich zusammengesetzten Grundmasse.“
+Auch dieser Chondrit entspricht mithin der Definition, welche G. Tschermak von denselben aufstellt: (Sitzungsberichte der Wiener Akademie, 1874, November. Über die Trümmerstruktur der Meteoriten von Orvinio und Chantonnay). „Chondrit sind mehr oder weniger tuffähnliche Massen, bestehend aus Gesteinskügelchen und einer pulvrigen und dichten, gleich zusammengesetzten Grundmasse.“
 
 Die einzelnen Kügelchen in unserm Chondriten sind von großer Verschiedenheit und oft von so eigentümlicher Struktur, dass sie einer genaueren Beschreibung wert erscheinen.
 
