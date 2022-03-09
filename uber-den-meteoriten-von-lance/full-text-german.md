@@ -4,7 +4,7 @@
 
 Der Meteorit von Lancé ist seit vorigem Jahre durch Geschenk in den Besitz des k. k. mineralogischen Museums gekommen, nachdem sich seinerzeit sowohl der Eigentümer des Bodens, auf welchen er fiel, als die Gemeinde und der Finder den Besitz desselben streitig machten.
 
-Über die Erscheinungen bei seinem Falle existieren zuverlässige und ausführliche Beobachtungen, so dass in dieser Beziehung dieser Meteorit als einer der genauest bekannten bezeichnet werden kann.
+Über die Erscheinungen bei seinem Falle existieren zuverlässige und ausführliche Beobachtungen, so dass in dieser Beziehung dieser Meteorit als einer der genaueste bekannten bezeichnet werden kann.
 
 In Folgendem ist die über diesen Meteoriten erschienene Literatur zusammengestellt:
 
@@ -18,7 +18,7 @@ Note additionelle sur la chute de météorites qui a eu lieu le 23 Juillet 1872,
 
 Notice sur le bolide du 23 Juillet 1872, qui a projeté des météorites dans le canton de Saint-Amand, arrondissement de Vendôme, département de Loir-et-Cher par M. Nouel. Vendôme 1873.
 
-Es sei uns erlaubt in kurzen Worten die Erscheinungen beim Falle des Meteoriten zu erwähnen; eine sehr weitschweifige Beschreibung und Zusammenstellung aller hieher gehörigen Umstände findet man in der oben citirten Brochure von Nouel.
+Es sei uns erlaubt in kurzen Worten die Erscheinungen beim Falle des Meteoriten zu erwähnen; eine sehr weitschweifige Beschreibung und Zusammenstellung aller hierher gehörigen Umstände findet man in der oben zitierten Brochure von Nouel.
 
 Um 5 Uhr 20 Minuten Nachmittags am 23. Juli 1872 bemerkte ein Beobachter zwischen Champigny und Brisay im Canton Saint-Amand, arrondissement de Vendôme, am Himmel einen Feuerstreif, der sich von Südwest nach Nordost bewegte und welcher sich plötzlich in zwei gesonderte Teile zu trennen schien. 6 Minuten nach der Wahrnehmung dieser Erscheinung wurde von dem Beobachter ein kanonenschuss-ähnlicher Schlag in der Umgebung von Tours vernommen; zur selben Zeit wurden auch in Tours zwei leuchtende Körper am Himmel gesehen.
 
@@ -50,7 +50,7 @@ Die zwei Flächen, aus denen die Rückseite besteht, sind mit Ausnahme einer Ste
 
 Diess dürfte von einem Entweichen von Gasen durch die noch weiche Schmelzrinde herrühren.
 
-Der Bruch des Meteoriten ist feinkörnig und uneben, die Farbe frischer Bruchflächen ist grau. Schon mit freiem Auge erkennt man an ihnen die globuläre Struktur des Meteoriten, der zu Rose’s Klasse der Chondrit zu stellen ist. Die Kügelchen erreichen selten einen Millimeter im Durchmesser, sie sind entweder weiß oder dunkelgrau bis schwarz und reichlich. Außerdem beobachtet man noch eine große Anzahl von weißen, oft durchscheinenden Körnern mit deutlicher Spaltbarkeit, welche, wie es später die mikroskopischen Untersuchungen lehren werden, Olivin sind. Außer diesen zweierlei Kügelchen sind in der tufartigen Grundmasse noch häufig Partikelchen mit metallischem Glanze zu beobachten.
+Der Bruch des Meteoriten ist feinkörnig und uneben, die Farbe frischer Bruchflächen ist grau. Schon mit freiem Auge erkennt man an ihnen die globuläre Struktur des Meteoriten, der zu Roses Klasse der Chondrit zu stellen ist. Die Kügelchen erreichen selten einen Millimeter im Durchmesser, sie sind entweder weiß oder dunkelgrau bis schwarz und reichlich. Außerdem beobachtet man noch eine große Anzahl von weißen, oft durchscheinenden Körnern mit deutlicher Spaltbarkeit, welche, wie es später die mikroskopischen Untersuchungen lehren werden, Olivin sind. Außer diesen zweierlei Kügelchen sind in der tufartigen Grundmasse noch häufig Partikelchen mit metallischem Glanze zu beobachten.
 
 Das spezifische Gewicht des Steines ist nach Daubrée 3.80.
 
@@ -68,7 +68,7 @@ _a)_ Kügelchen, meistens mit schön kreisförmigen Durchschnitten, weiß, durch
 
 Eine Anzahl von undurchsichtigen, kugelförmigen Körperchen sind sowohl am Rande als in der Mitte des Durchschnittes zu beobachten.
 
-[Fig. 3, Tafel 4](https://cdn.solaranamnesis.com/Drasche/table4.png) zeigt den Durchschnitt eines etwas unregelmäßig begrenzten Kügelchens, welches aus dicht aneinander gestellten Polygonen besteht und im Mikroskope unwillkürlich an ein facettirtes Fliegenauge erinnert. Die einzelnen Kristalle, welche ganz unregelmäßige optische Orientierung zeigen, sind ebenfalls dem Olivin angehörig.
+[Fig. 3, Tafel 4](https://cdn.solaranamnesis.com/Drasche/table4.png) zeigt den Durchschnitt eines etwas unregelmäßig begrenzten Kügelchens, welches aus dicht aneinander gestellten Polygonen besteht und im Mikroskope unwillkürlich an ein facettiertes Fliegenauge erinnert. Die einzelnen Kristalle, welche ganz unregelmäßige optische Orientierung zeigen, sind ebenfalls dem Olivin angehörig.
 
 [In Fig. 4, Tafel 4](https://cdn.solaranamnesis.com/Drasche/table4.png) ist der Durchschnitt eines ganz merkwürdigen Kügelchens abgebildet, von welcher Gattung ich nur ein einziges Exemplar beobachten konnte. Der Durchschnitt ist vollkommen kreisförmig, die Substanz, aus der das Kügelchen zum größten Teile besteht, ist farblos, sie zeigt jedoch bei gekreuzten Nicols keine weiteren Erscheinungen. Von einem exzentrisch liegenden Punkte strahlen sechs lanzettförmige Leistchen unter Winkeln von 45° nach den Rändern aus; an dieselben heften sich wieder andere kürzere Stäbchen, ebenfalls unter 45°, in großer Menge. Bei sehr starker, 240facher Vergrößerung, erscheinen dieselben hohl und teilweise mit einer dunkelgrünen, flockigen Substanz erfüllt.
 
@@ -78,7 +78,7 @@ Ein anderes merkwürdiges, ebenfalls nur in einem Exemplare in unseren Dünnschl
 
 In diese Masse sind viele kleine, stark polarisierende, farblose Körperchen eingebettet, welche ich für Olivin halten möchte.
 
-Von den Ecken an der Oberfläche dieses inneren Teiles gehen starke, gekrümmte Adern nach dem Rande des äußern Teiles und theilen so den Ring in eine Anzahl Sektoren. Der äußere Ring selbst besteht wieder aus einem Aggregat der kleinen farblosen Kristallichen, welches von einem dichten Netzwerk eines braunen, faserigen Minerals durchzogen ist. Ich vermute, dass dasselbe aus derselben Substanz bestehe, wie der innere Teil der Kugel.
+Von den Ecken an der Oberfläche dieses inneren Teiles gehen starke, gekrümmte Adern nach dem Rande des äußern Teiles und teilen so den Ring in eine Anzahl Sektoren. Der äußere Ring selbst besteht wieder aus einem Aggregat der kleinen farblosen Kristallischen, welches von einem dichten Netzwerk eines braunen, faserigen Minerals durchzogen ist. Ich vermute, dass dasselbe aus derselben Substanz bestehe, wie der innere Teil der Kugel.
 
 _b)_ Während die sub _a)_ aufgezählten Kügelchen größtenteils aus Olivin bestanden, kommen wir jetzt zu der Beschreibung von Kugeln, welche aus einem feinfaserig, exzentrisch angeordneten Minerale bestehen, welches wohl in den meisten Fällen Bronzit sein dürfte. Schon G. Rose (Beschreibung und Einteilung der Meteoriten) hat, mit damals noch unzureichenden mikroskopischen Hilfsmitteln diese Art von Kügelchen beschrieben und abgebildet und hauptsächlich im Gegensatze zu terrestrischen ähnlichen Gebilden die stets exzentrische Struktur derselben hervorgehoben. Von G. Tschermak besitzen wir genaue und ausführliche Beschreibungen dieser Körper in dem Meteorit von Gopalpur. (Die Meteoriten von Shergotty und Gopalpur. 65. Bd. der Sitzb. der 5 Akademie der Wissensch., 1. Abt., Februar-Heft, Jahrgang 1872.)
 
@@ -147,6 +147,6 @@ Abgesehen von den gewöhnlichen Bestandteilen eines Meteoriten wie Nickeleisen, 
 
 Wir erkennen somit auch in der chemischen Analyse die Mineralien wieder, welche wir im Mikroskope beobachten konnten. Der unzersetzbare, nicht weiter analysierte Teil besteht nach Daubrée aus einem farblosen und schwarzen Mineral. Ersteres ist wohl Bronzit, letzteres dürfte Chromit sein.
 
-Die 14.28%, Protosulfür werden wohl dem Magnetkies angehörig sein, da kein Troilit von uns beobachtet wurde. Zählen wir nunmehr die beobachteten Mineralien auf, so enthält der Chondrit von Lancé Nickeleisen, Magnetkies, Chromit, Olivin und Bronzit. Troilit wurde nicht beobachtet. Eine genaue Analyse des unlöslichen Teiles müsste zeigen, ob in demselben nicht vielleicht auch wie im Meteoriten von Gopalpur ein feldspathähnlicher Bestandteil vorhanden ist.
+Die 14.28%, Protosulfür werden wohl dem Magnetkies angehörig sein, da kein Troilit von uns beobachtet wurde. Zählen wir nunmehr die beobachteten Mineralien auf, so enthält der Chondrit von Lancé Nickeleisen, Magnetkies, Chromit, Olivin und Bronzit. Troilit wurde nicht beobachtet. Eine genaue Analyse des unlöslichen Teiles müsste zeigen, ob in demselben nicht vielleicht auch wie im Meteoriten von Gopalpur ein feldspatähnlicher Bestandteil vorhanden ist.
 
 Zum Schlusse entledige ich mich einer angenehmen Pflicht, wenn ich Herrn Direktor Dr. G. Tschermak meinen verbindlichsten Dank ausdrücke für die Liberalität, mit welcher er mir die hiesige Meteoritensammlung zu meinen Studien zur Verfügung stellte.
