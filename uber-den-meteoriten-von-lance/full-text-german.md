@@ -110,7 +110,7 @@ Was schließlich die chemische Zusammensetzung des Chondriten von Lancé betriff
 
 „Mit Wasser behandelt verliert die Substanz 0.12%, Chlornatrium....
 
-Wenn man die Substanz der Rotbglühhitze in einem Strome von Wasserstoff aussetzt und das erzeugte Sublimat auffängt, so kann man von Neuem die Gegenwart des Chlornatriums in demselben Verhältnisse konstatieren, als es in der wässerigen Lösung gefunden wurde. Kalisalze, Sulfate und Hypersulfate sind nicht vorhanden. Salzsäure und Schwefelsäure bewirken eine Entwicklung von Schwefelwasserstoffgas in großer Menge, aber ohne einen Absatz von Schwefel, welches anzeigt, dass sich der Schwefel nur als Protosulfür vorfinde. Man hat sowohl die Menge des Schwefels des entwichenen Schwefelwasserstoffgases mit salpetersauren Silberoxid bestimmt, als auch die Menge des entwichenen Wasserstoffes von der Behandlung mit Schwefelsäure herrührend, und es ist durch letztere Methode gelungen, den approximativen Gehalt an freien Metallen zu bestimmen. Durch Behandlung mit Salpetersäure und indem man nach der Methode von H. Sainte-Claire Deville vorging, hat man die Gegenwart eines angreifbaren Silikates konstatiert, welches Magnesia und Eisenoxidul enthält.
+Wenn man die Substanz der Rotbglühhitze in einem Strome von Wasserstoff aussetzt und das erzeugte Sublimat auffängt, so kann man von Neuem die Gegenwart des Chlornatriums in demselben Verhältnisse konstatieren, als es in der wässerigen Lösung gefunden wurde. Kalisalze, Sulfate und Hypersulfate sind nicht vorhanden. Salzsäure und Schwefelsäure bewirken eine Entwicklung von Schwefelwasserstoffgas in großer Menge, aber ohne einen Absatz von Schwefel, welches anzeigt, dass sich der Schwefel nur als Protosulfür vorfinde. Man hat sowohl die Menge des Schwefels des entwichenen Schwefelwasserstoffgases mit salpetersauren Silberoxid bestimmt, als auch die Menge des entwichenen Wasserstoffes von der Behandlung mit Schwefelsäure herrührend, und es ist durch letztere Methode gelungen, den approximativen Gehalt an freien Metallen zu bestimmen. Durch Behandlung mit Salpetersäure und indem man nach der Methode von H. Sainte-Claire Deville vorging, hat man die Gegenwart eines angreifbaren Silikates konstatiert, welches Magnesia und Eisenoxydul enthält.
 
 Der unangreifbare Teil besteht aus wenigstens zwei Substanzen, einem farblosen und einem tiefschwarzen.
 
@@ -130,8 +130,8 @@ Protosulfür ... 14.28
 
 Durch Säuren zersetzbares Silikat oder Olivin ... Kieselsäure ... 17.20  
 Durch Säuren zersetzbares Silikat oder Olivin ... Magnesia ... 13.86  
-Durch Säuren zersetzbares Silikat oder Olivin ... Eisenoxidul ... 11.33  
-Durch Säuren zersetzbares Silikat oder Olivin ... Manganoxidul ... 0.05  
+Durch Säuren zersetzbares Silikat oder Olivin ... Eisenoxydul ... 11.33  
+Durch Säuren zersetzbares Silikat oder Olivin ... Manganoxydul ... 0.05  
 
 42.41 
 
